@@ -1,5 +1,5 @@
 ##  **Linkeaz®**
-### Agence de communication numérique & Sécurité informatique
+### Agence de communication numérique
 
 Nous accompagnons les entreprises dans leur transformation digitale avec des solutions adaptées et pragmatiques.
 
