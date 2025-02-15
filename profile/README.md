@@ -10,19 +10,20 @@ We support businesses in their digital transformation with tailored and pragmati
 ### 🌍 Our Expertise
 
 [![Branding](https://img.shields.io/badge/Branding-Visual_Identity-blue?logo=adobe)](https://www.linkeaz.net/services/#identite-visuelle)  
-Visual identities and brand strategies.
+Creation of visual identities and brand strategies.
 
 [![Communication](https://img.shields.io/badge/Communication-Digital_Strategies-green?logo=adobe)](https://www.linkeaz.net/services/#identite-visuelle)  
-Development and management of digital communication.
+Development and management of digital communication strategies.
+ 
+[![Web Services](https://img.shields.io/badge/Web_Services-Website_Development-yellow?logo=adobe)](https://www.linkeaz.net/services/#web-design)  
+Design and development of websites, software, and SaaS solutions.
 
-[![Web Services](https://img.shields.io/badge/Web_Services-Website_Services-yellow?logo=adobe)](https://www.linkeaz.net/services/#web-design)  
-Design of websites, software, and SaaS solutions.
-
-[![Cloud Services](https://img.shields.io/badge/Cloud_Services-Hosting_&_Infra-orange?logo=amazonaws)](https://www.linkeaz.net/services/#cloud)  
-Infrastructure management and tailored cloud solutions.
+[![Cloud Services](https://img.shields.io/badge/Cloud_Services-Managed_Solutions-orange?logo=amazonaws)](https://www.linkeaz.net/services/#cloud)  
+Infrastructure management and tailored cloud computing solutions.
 
 [![Best Practices](https://img.shields.io/badge/Best_Practices-Security_&_Consulting-red?logo=security)](https://www.linkeaz.net/a-propos/#section4)  
-Best practices in IT security and strategic consulting.
+Implementation of IT security best practices and strategic consulting.
+
 
 
 ### 🔗 Code & Resources
@@ -48,13 +49,13 @@ Nous accompagnons les entreprises dans leur transformation digitale avec des sol
 [![Branding](https://img.shields.io/badge/Branding-Identité_visuelle-blue?logo=adobe)](https://www.linkeaz.net/services/#identite-visuelle)  
 Identités visuelles et stratégies de marque.
 
-[![Communication](https://img.shields.io/badge/Communication-Stratégies_numérique-green?logo=adobe)](https://www.linkeaz.net/services/#identite-visuelle)  
+[![Communication](https://img.shields.io/badge/Communication-Stratégies_numériques-green?logo=adobe)](https://www.linkeaz.net/services/#identite-visuelle)  
 Développement et gestion de la communication numérique.
 
-[![Web Design](https://img.shields.io/badge/Service_Web-Developpement-yellow?logo=adobe)](https://www.linkeaz.net/services/#web-design)   
+[![Web Design](https://img.shields.io/badge/Service_Web-Développement-yellow?logo=adobe)](https://www.linkeaz.net/services/#web-design)  
 Conception de sites web, logiciels et solutions SaaS.
 
-[![Service Cloud](https://img.shields.io/badge/Service_Cloud-Hébergement_&_Infras-orange?logo=amazonaws)](https://www.linkeaz.net/services/#cloud)  
+[![Service Cloud](https://img.shields.io/badge/Service_Cloud-Infogérance-orange?logo=amazonaws)](https://www.linkeaz.net/services/#cloud)  
 Gestion d'infrastructures et solutions cloud adaptées.
 
 [![Bonnes pratiques](https://img.shields.io/badge/Bonnes_pratiques-Sécurité_&_Conseil-red?logo=security)](https://www.linkeaz.net/a-propos/#section4)  
