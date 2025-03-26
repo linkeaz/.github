@@ -3,7 +3,8 @@
 
 We support businesses in their digital transformation with tailored and pragmatic solutions.
 
-![Language](https://img.shields.io/badge/Language-English_🇬🇧-181717?logo=translate)
+![Language](https://img.shields.io/badge/Languages-Français_🇫🇷-181717?logo=translate) 
+![Language](https://img.shields.io/badge/English_🇬🇧-181717?logo=translate)
 
 ---
 
